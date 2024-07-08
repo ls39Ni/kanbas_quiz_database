@@ -1,0 +1,866 @@
+[
+  {
+    "_id": "A101",
+    "title": "Propulsion Assignment",
+    "course": "RS101",
+    "type": "FillBlank",
+    "question": "For solid rocket fuel, this kind of burn is also known as a cigarette burn.",
+    "answer": "A Neutral Burn"
+  },
+  {
+    "_id": "A101",
+    "title": "Propulsion Assignment",
+    "course": "RS101",
+    "type": "FillBlank",
+    "question": "This kind of rocket is often referred to as the safest kind of rocket, combining both solid fuel and liquid oxidizer.",
+    "answer": "Hybrid Rocket"
+  },
+  {
+    "_id": "A101",
+    "title": "Propulsion Assignment",
+    "course": "RS101",
+    "type": "FillBlank",
+    "question": "Solid rocket fuel where the fuel and oxidizer are separate molecules held together with a binder is said to be what kind of propellant?",
+    "answer": "Heterogeneous Propellant"
+  },
+  {
+    "_id": "A101",
+    "title": "Propulsion Assignment",
+    "course": "RS101",
+    "type": "FillBlank",
+    "question": "Solid rocket fuel where the fuel and oxidizer are chemically bonded together in the same molecule is said to be what kind of propellant?",
+    "answer": "Homogeneous Propellant"
+  },
+  {
+    "_id": "A101",
+    "title": "Propulsion Assignment",
+    "course": "RS101",
+    "type": "FillBlank",
+    "question": "In a solid rocket, gas generation is proportional to what?",
+    "answer": "The burning surface area"
+  },
+  {
+    "_id": "A101",
+    "title": "Propulsion Assignment",
+    "course": "RS101",
+    "type": "FillBlank",
+    "question": "An electric rocket deals with propellants in what phase of matter?",
+    "answer": "Plasma"
+  },
+  {
+    "_id": "A101",
+    "title": "Propulsion Assignment",
+    "course": "RS101",
+    "type": "TrueFalse",
+    "question": "Rockets consume very little fuel and are very efficient",
+    "answer": "False"
+  },
+  {
+    "_id": "A101",
+    "title": "Propulsion Assignment",
+    "course": "RS101",
+    "type": "MultipleChoice",
+    "question": "In a neutral burn for a solid rocket, thrust does what over time?",
+    "choice1": "Increase",
+    "choice2": "Decraese",
+    "choice3": "Remains constant",
+    "chice4":"None",
+    "answer": "Remains constant"
+  },
+  {
+    "_id": "A101",
+    "title": "Propulsion Assignment",
+    "course": "RS101",
+    "type": "MultipleChoice",
+    "question": "In a progressive burn for a solid rocket, thrust does what over time?",
+    "choice1": "Increase",
+    "choice2": "Decraese",
+    "choice3": "Remains constant",
+    "chice4":"None",
+    "answer": "Increase"
+  },
+  {
+    "_id": "A101",
+    "title": "Propulsion Assignment",
+    "course": "RS101",
+    "type": "MultipleChoice",
+    "question": "In a regressive burn for a solid rocket, thrust does what over time?",
+    "choice1": "Increase",
+    "choice2": "Decraese",
+    "choice3": "Remains constant",
+    "chice4":"None",
+    "answer": "Decraese"
+  },
+  {
+    "_id": "A102",
+    "title": "Combustion Analysis",
+    "course": "RS101",
+    "type": "FillBlank",
+    "question": "The amount of usable energy available in fuel that can be used by combustion is called the ___",
+    "answer": "Heating value"
+  },
+  {
+    "_id": "A102",
+    "title": "Combustion Analysis",
+    "course": "RS101",
+    "type": "FillBlank",
+    "question": "____________ is a determination of the portion of a fuel that will readily vaporize, ignite, and burn when heat is applied to it",
+    "answer": "Volatility"
+  },
+  {
+    "_id": "A102",
+    "title": "Combustion Analysis",
+    "course": "RS101",
+    "type": "FillBlank",
+    "question": "___________ testing determines how well a fuel can be pulverized",
+    "answer": "Grindability"
+  },
+  {
+    "_id": "A102",
+    "title": "Combustion Analysis",
+    "course": "RS101",
+    "type": "TrueFalse",
+    "question": "Fuels with high volatility ignite quickly when a flame is passed over them",
+    "answer": "True"
+  },
+  {
+    "_id": "A102",
+    "title": "Combustion Analysis",
+    "course": "RS101",
+    "type": "TrueFalse",
+    "question": "Ignition is the application of sufficient heat to start combustion",
+    "answer": "True"
+  },
+  {
+    "_id": "A102",
+    "title": "Combustion Analysis",
+    "course": "RS101",
+    "type": "TrueFalse",
+    "question": "A proximate analysis indicates the exact percentages of the fuel constituents in a sample of fuel",
+    "answer": "False"
+  },
+  {
+    "_id": "A102",
+    "title": "Combustion Analysis",
+    "course": "RS101",
+    "type": "MultipleChoice",
+    "question": "A combustible material is any substance that has the ability to burn. Indicate which of the following is not a combustible material.",
+    "choice1": "Sand",
+    "choice2": "cloth",
+    "choice3": "wood",
+    "choice4": "fuel",
+    "answer": "Sand"
+  },
+  {
+    "_id": "A102",
+    "title": "Combustion Analysis",
+    "course": "RS101",
+    "type": "MultipleChoice",
+    "question": "How does the quantity of oxygen vary during combustion?",
+    "choice1": "The quantity of oxygen decreases with time",
+    "choice2": "The quantity of oxygen does not vary with time",
+    "choice3": "The quantity of oxygen increses with time",
+    "choice4": "The quantity of oxygen increases then decreases",
+    "answer": "The quantity of oxygen decreases with time"
+  },
+  {
+    "_id": "A102",
+    "title": "Combustion Analysis",
+    "course": "RS101",
+    "type": "MultipleChoice",
+    "question": "Any combustion needs the presence of",
+    "choice1": "Carbon dioxide gas",
+    "choice2": "Butane gas",
+    "choice3": "Hydrogen gas",
+    "choice4": "Oxygen gas",
+    "answer": "Oxygen gas"
+  },
+  {
+    "_id": "A102",
+    "title": "Combustion Analysis",
+    "course": "RS101",
+    "type": "MultipleChoice",
+    "question": "Combustion can occur without",
+    "choice1": "Oxygen gas",
+    "choice2": "Flame",
+    "choice3": "Combustible material",
+    "choice4": "Temperature greater than kindling temperature",
+    "answer": "Flame"
+  },
+  {
+    "_id": "A103",
+    "title": "Nozzle Design Project",
+    "course": "RS101",
+    "type": "FillBlank",
+    "question": "Is momentum a vector or a scalar?",
+    "answer": "Vector"
+  },
+  {
+    "_id": "A103",
+    "title": "Nozzle Design Project",
+    "course": "RS101",
+    "type": "FillBlank",
+    "question": "For rocket exhaust, when ambient pressure is greater than the exhaust pressure, flow is said to be what?",
+    "answer": "Over-Expanded Nozzle Flow"
+  },
+  {
+    "_id": "A103",
+    "title": "Nozzle Design Project",
+    "course": "RS101",
+    "type": "FillBlank",
+    "question": "When ambient pressure is less than the exhaust pressure, nozzle flow is said to be what?",
+    "answer": "Under-Expanded Nozzle Flow"
+  },
+  {
+    "_id": "A103",
+    "title": "Nozzle Design Project",
+    "course": "RS101",
+    "type": "TrueFalse",
+    "question": "Rockets consume very little fuel and are very efficient",
+    "answer": "False"
+  },
+  {
+    "_id": "A103",
+    "title": "Nozzle Design Project",
+    "course": "RS101",
+    "type": "TrueFalse",
+    "question": "In liquid rocket engines, due to extremely exothermic nature of the combustion reaction, engineers always solely rely on thick materials with high melting points to handle the heat.",
+    "answer": "False"
+  },
+  {
+    "_id": "A103",
+    "title": "Nozzle Design Project",
+    "course": "RS101",
+    "type": "MultipleChoice",
+    "question": "A combustible material burns when it reaches its kindling temperautre. The lower the kindling temperature of a substance, the ........ it starts to burn.",
+    "choice1": "Slower",
+    "choice2": "More difficult",
+    "choice3": "Easier",
+    "choice4": "Longer time",
+    "answer": "Easier"
+  },
+  {
+    "_id": "A103",
+    "title": "Nozzle Design Project",
+    "course": "RS101",
+    "type": "MultipleChoice",
+    "question": "The kindling temperature is the temperature at which a combustible material starts to:",
+    "choice1": "Boil",
+    "choice2": "Evaporate",
+    "choice3": "Melt",
+    "choice4": "Burn",
+    "answer": "Burn"
+  },
+  {
+    "_id": "A103",
+    "title": "Nozzle Design Project",
+    "course": "RS101",
+    "type": "MultipleChoice",
+    "question": "Complete combustion occurs when",
+    "choice1": "Insufficient quanity of butane gas is supplied",
+    "choice2": "Sufficient quanity of butane gas is supplied",
+    "choice3": "Sufficient quanity of oxygen gas is supplied",
+    "choice4": "Insufficient quanity of oxygen supplied",
+    "answer": "Sufficient quanity of oxygen gas is supplied"
+  },
+  {
+    "_id": "A103",
+    "title": "Nozzle Design Project",
+    "course": "RS101",
+    "type": "MultipleChoice",
+    "question": "The products of a combustion reaction differ whether the reaction is complete or incomplete. The products of a complete combustion reaction are:",
+    "choice1": "Carbon dioxide and water vapor",
+    "choice2": "Water vapor",
+    "choice3": "Carbon dioxide",
+    "choice4": "Carbon and water vapor",
+    "answer": "Carbon dioxide and water vapor"
+  },
+  {
+    "_id": "A103",
+    "title": "Nozzle Design Project",
+    "course": "RS101",
+    "type": "MultipleChoice",
+    "question": "Combustion reactions are major sources of energy. The energy released in combustion reactions is used for many purposes like:",
+    "choice1": "Producing electricity ",
+    "choice2": "Powering Vehicles",
+    "choice3": "Cooking food and heating homes",
+    "choice4": "All the suggested answers",
+    "answer": "All the suggested answers"
+  },
+  {
+    "_id": "A201",
+    "title": "Aerodynamics Quiz",
+    "course": "RS102",
+    "type": "FillBlank",
+    "question": "Subsonic flow occurs when the flow velocity is ____________ the speed of sound.",
+    "answer": "Below"
+  },
+  {
+    "_id": "A201",
+    "title": "Aerodynamics Quiz",
+    "course": "RS102",
+    "type": "FillBlank",
+    "question": "The ____________ equation governs supersonic flow.",
+    "answer": "Euler"
+  },
+  {
+    "_id": "A201",
+    "title": "Aerodynamics Quiz",
+    "course": "RS102",
+    "type": "FillBlank",
+    "question": "The history of aerodynamics dates back to ____________.",
+    "answer": "Ancient times"
+  },
+  {
+    "_id": "A201",
+    "title": "Aerodynamics Quiz",
+    "course": "RS102",
+    "type": "FillBlank",
+    "question": "Aerodynamic propulsion primarily relies on generating ____________ to produce thrust.",
+    "answer": "Thrust"
+  },
+  {
+    "_id": "A201",
+    "title": "Aerodynamics Quiz",
+    "course": "RS102",
+    "type": "TrueFalse",
+    "question": "Drag acts parallel to the relative airflow. ",
+    "answer": "True"
+  },
+  {
+    "_id": "A201",
+    "title": "Aerodynamics Quiz",
+    "course": "RS102",
+    "type": "TrueFalse",
+    "question": "The angle of climb of the same airplane carrying the pilot and three passengers will be less than the angle of climb when only the pilot is on board.",
+    "answer": "True"
+  },
+  {
+    "_id": "A201",
+    "title": "Aerodynamics Quiz",
+    "course": "RS102",
+    "type": "MultipleChoice",
+    "question": "Which of the following is NOT one of the 4 forces that acts on an aircraft in straight-and-level, unaccelerated flight?",
+    "choice1": "Thrust",
+    "choice2": "Weight",
+    "choice3": "Centrifugal",
+    "choice4": "Drag",
+    "answer": "Centrifugal"
+  },
+  {
+    "_id": "A201",
+    "title": "Aerodynamics Quiz",
+    "course": "RS102",
+    "type": "MultipleChoice",
+    "question": "What is the best rate of climb speed in a Cessna 172?",
+    "choice1": "Vs",
+    "choice2": "Va",
+    "choice3": "Vy",
+    "choice4": "Vx",
+    "answer": "Vy"
+  },
+  {
+    "_id": "A201",
+    "title": "Aerodynamics Quiz",
+    "course": "RS102",
+    "type": "MultipleChoice",
+    "question": "Lowering flaps increases:",
+    "choice1": "Camber",
+    "choice2": "Lift",
+    "choice3": "Drag",
+    "choice4": "All the suggested answers",
+    "answer": "All the suggested answers"
+  },
+  {
+    "_id": "A201",
+    "title": "Aerodynamics Quiz",
+    "course": "RS102",
+    "type": "MultipleChoice",
+    "question": "The acute angle between the chord line of the wing and the direction of the relative wind is the _____.",
+    "choice1": "Angle of Attitude",
+    "choice2": "Angle of incidence",
+    "choice3": "Angle of Attach",
+    "choice4": "All the suggested answers",
+    "answer": "Angle of Attach"
+  },
+  {
+    "_id": "A202",
+    "title": "Flow Analysis",
+    "course": "RS102",
+    "type": "FillBlank",
+    "question": "Subsonic flow occurs when the speed of an object is ________ than the speed of sound.",
+    "answer": "Less"
+  },
+  {
+    "_id": "A202",
+    "title": "Flow Analysis",
+    "course": "RS102",
+    "type": "FillBlank",
+    "question": "Supersonic flow occurs when the speed of an object is ________ than the speed of sound.",
+    "answer": "Greater"
+  },
+  {
+    "_id": "A202",
+    "title": "Flow Analysis",
+    "course": "RS102",
+    "type": "FillBlank",
+    "question": "The study of airflow around objects and the forces acting on them is known as ________.",
+    "answer": "Aerodynamics"
+  },
+  {
+    "_id": "A202",
+    "title": "Flow Analysis",
+    "course": "RS102",
+    "type": "FillBlank",
+    "question": "The branch of aerodynamics that deals with the study of forces on bodies in motion through air or other gases is called ________ aerodynamics.",
+    "answer": "fluid"
+  },
+  {
+    "_id": "A202",
+    "title": "Flow Analysis",
+    "course": "RS102",
+    "type": "TrueFalse",
+    "question": "In subsonic flow, shock waves can form around an object moving slower than the speed of sound.",
+    "answer": "False"
+  },
+  {
+    "_id": "A202",
+    "title": "Flow Analysis",
+    "course": "RS102",
+    "type": "TrueFalse",
+    "question": "Supersonic flow typically occurs at speeds below Mach 1.",
+    "answer": "False"
+  },
+  {
+    "_id": "A202",
+    "title": "Flow Analysis",
+    "course": "RS102",
+    "type": "MultipleChoice",
+    "question": "Which of the following is NOT a type of drag acting on an aircraft?",
+    "choice1": "Form drag",
+    "choice2": "Lift drag",
+    "choice3": "Wave drag",
+    "choice4": "Thrust drag",
+    "answer": "Thrust drag"
+  },
+  {
+    "_id": "A202",
+    "title": "Flow Analysis",
+    "course": "RS102",
+    "type": "MultipleChoice",
+    "question": "The term “Mach number” is used to describe:",
+    "choice1": "The density of the air",
+    "choice2": "The speed of sound",
+    "choice3": "The viscosity of the air",
+    "choice4": "The pressure of the air",
+    "answer": "The speed of sound"
+  },
+  {
+    "_id": "A202",
+    "title": "Flow Analysis",
+    "course": "RS102",
+    "type": "MultipleChoice",
+    "question": "Which of the following is an example of a supersonic aircraft?",
+    "choice1": "Boeing 747",
+    "choice2": "Concorde",
+    "choice3": "Airbus A380",
+    "choice4": "Cessna 172",
+    "answer": "Concorde"
+  },
+  {
+    "_id": "A202",
+    "title": "Flow Analysis",
+    "course": "RS102",
+    "type": "MultipleChoice",
+    "question": "The ratio of the speed of an object to the speed of sound in the surrounding medium is called:",
+    "choice1": "Reynolds number",
+    "choice2": "Mach number",
+    "choice3": "Bernoulli’s principle",
+    "choice4": "Lift-to-drag ratio",
+    "answer": "Mach number"
+  },
+  {
+    "_id": "A203",
+    "title": "Heating Analysis",
+    "course": "RS102",
+    "type": "FillBlank",
+    "question": "Aerodynamic heating occurs due to friction between the __________ and the surrounding air molecules at high speeds.",
+    "answer": "Vehicle’s surface "
+  },
+  {
+    "_id": "A203",
+    "title": "Heating Analysis",
+    "course": "RS102",
+    "type": "FillBlank",
+    "question": "The concept of aerodynamics dates back to ancient times, with early observations by __________ in the 4th century BC.",
+    "answer": "Aristotle"
+  },
+  {
+    "_id": "A203",
+    "title": "Heating Analysis",
+    "course": "RS102",
+    "type": "FillBlank",
+    "question": "The study of aerodynamics includes different types of flows, such as __________ flow, which occurs when the flow parameters change rapidly over time and space.",
+    "answer": "Unsteady"
+  },
+  {
+    "_id": "A203",
+    "title": "Heating Analysis",
+    "course": "RS102",
+    "type": "FillBlank",
+    "question": "In aerodynamics, propulsion is achieved by generating a __________ that produces thrust according to Newton’s third law of motion.",
+    "answer": "Jet of exhaust gases"
+  },
+  {
+    "_id": "A203",
+    "title": "Heating Analysis",
+    "course": "RS102",
+    "type": "TrueFalse",
+    "question": "Aerodynamic heating primarily occurs due to chemical reactions between the vehicle’s surface and the surrounding air molecules.",
+    "answer": "False"
+  },
+  {
+    "_id": "A203",
+    "title": "Heating Analysis",
+    "course": "RS102",
+    "type": "TrueFalse",
+    "question": "The concept of lift in aerodynamics is solely dependent on the shape and angle of the wings.",
+    "answer": "True"
+  },
+  {
+    "_id": "A203",
+    "title": "Heating Analysis",
+    "course": "RS102",
+    "type": "MultipleChoice",
+    "question": "Which of the following is a primary factor affecting aerodynamic drag?",
+    "choice1": "Wing span",
+    "choice2": "Surface roughness",
+    "choice3": "Thrust vectoring",
+    "choice4": "Fuselage length",
+    "answer": "Surface roughness"
+  },
+  {
+    "_id": "A203",
+    "title": "Heating Analysis",
+    "course": "RS102",
+    "type": "MultipleChoice",
+    "question": "Which type of flow occurs when the flow parameters remain constant over time and space?",
+    "choice1": "Laminar",
+    "choice2": "Turbulent",
+    "choice3": "Transonic",
+    "choice4": "Steady",
+    "answer": "Steady"
+  },
+  {
+    "_id": "A203",
+    "title": "Heating Analysis",
+    "course": "RS102",
+    "type": "MultipleChoice",
+    "question": "What principle explains how an airfoil generates lift?",
+    "choice1": "Bernoulli’s principle",
+    "choice2": "Newton’s first law",
+    "choice3": "Pascal’s principle",
+    "choice4": "Archimedes’ principle",
+    "answer": "Bernoulli’s principle"
+  },
+  {
+    "_id": "A203",
+    "title": "Heating Analysis",
+    "course": "RS102",
+    "type": "MultipleChoice",
+    "question": "Which component of an aircraft is designed to reduce induced drag?",
+    "choice1": "Winglet",
+    "choice2": "Aileron",
+    "choice3": "Flap",
+    "choice4": "Elevator",
+    "answer": "Winglet"
+  },
+  {
+    "_id": "A301",
+    "title": "Structural Design Task",
+    "course": "RS103",
+    "type": "FillBlank",
+    "question": "The structural design of spacecraft must account for ___________ during launch and re-entry.",
+    "answer": "Vibrations "
+  },
+  {
+    "_id": "A301",
+    "title": "Structural Design Task",
+    "course": "RS103",
+    "type": "FillBlank",
+    "question": "The concept of __________ is crucial in understanding the airflow around wings and spacecraft.",
+    "answer": "Lift"
+  },
+  {
+    "_id": "A301",
+    "title": "Structural Design Task",
+    "course": "RS103",
+    "type": "FillBlank",
+    "question": "Aerodynamic __________ refers to the study of air in motion and its effects on objects.",
+    "answer": "Dynamics"
+  },
+  {
+    "_id": "A301",
+    "title": "Structural Design Task",
+    "course": "RS103",
+    "type": "FillBlank",
+    "question": "Structural __________ involves the analysis and design of materials and shapes to withstand forces in space environments.",
+    "answer": "Engineering"
+  },
+  {
+    "_id": "A301",
+    "title": "Structural Design Task",
+    "course": "RS103",
+    "type": "TrueFalse",
+    "question": "Aerodynamic propulsion relies solely on jet engines.",
+    "answer": "False"
+  },
+  {
+    "_id": "A301",
+    "title": "Structural Design Task",
+    "course": "RS103",
+    "type": "TrueFalse",
+    "question": "Aerodynamic heating primarily affects spacecraft during re-entry.",
+    "answer": "True"
+  },
+  {
+    "_id": "A301",
+    "title": "Structural Design Task",
+    "course": "RS103",
+    "type": "MultipleChoice",
+    "question": "What structural material is commonly used in spacecraft due to its high strength-to-weight ratio?",
+    "choice1": "Aluminum",
+    "choice2": "Titanium",
+    "choice3": "Carbon fiber",
+    "choice4": "Steel",
+    "answer": "Carbon fiber"
+  },
+  {
+    "_id": "A301",
+    "title": "Structural Design Task",
+    "course": "RS103",
+    "type": "MultipleChoice",
+    "question": "Which aerodynamic phenomenon causes a reduction in pressure and an increase in velocity of airflow over an aircraft wing?",
+    "choice1": "Stall",
+    "choice2": "Boundary layer separation",
+    "choice3": "Drag",
+    "choice4": "Lift",
+    "answer": "Lift"
+  },
+  {
+    "_id": "A301",
+    "title": "Structural Design Task",
+    "course": "RS103",
+    "type": "MultipleChoice",
+    "question": "Which type of propulsion is most commonly used for spacecraft launches into orbit?",
+    "choice1": " Electric propulsion",
+    "choice2": "Ion propulsion",
+    "choice3": "Chemical propulsion",
+    "choice4": " Nuclear propulsion",
+    "answer": "Chemical propulsion"
+  },
+  {
+    "_id": "A301",
+    "title": "Structural Design Task",
+    "course": "RS103",
+    "type": "MultipleChoice",
+    "question": "Which aerodynamic property describes the ability of a shape to minimize resistance to airflow?",
+    "choice1": "Lift",
+    "choice2": "Drag",
+    "choice3": "Reynolds number",
+    "choice4": "Streamline",
+    "answer": "Streamline"
+  },
+  {
+    "_id": "A302",
+    "title": "Orbital Calculations",
+    "course": "RS103",
+    "type": "FillBlank",
+    "question": "____________ is the path followed by a celestial body or artificial satellite around another body in space.",
+    "answer": "Orbit "
+  },
+  {
+    "_id": "A302",
+    "title": "Orbital Calculations",
+    "course": "RS103",
+    "type": "FillBlank",
+    "question": "The concept of ____________ is crucial to understanding lift and drag forces on aircraft wings.",
+    "answer": "Airflow"
+  },
+  {
+    "_id": "A302",
+    "title": "Orbital Calculations",
+    "course": "RS103",
+    "type": "FillBlank",
+    "question": "In jet engines, ____________ is the process of compressing incoming air before combustion.",
+    "answer": "Compression"
+  },
+  {
+    "_id": "A302",
+    "title": "Orbital Calculations",
+    "course": "RS103",
+    "type": "FillBlank",
+    "question": "____________ is a flow regime where the flow velocity is less than the speed of sound.",
+    "answer": "Subsonic"
+  },
+  {
+    "_id": "A302",
+    "title": "Orbital Calculations",
+    "course": "RS103",
+    "type": "TrueFalse",
+    "question": "Orbital velocity is the speed required for an object to stay in a stable orbit around a celestial body.",
+    "answer": "True"
+  },
+  {
+    "_id": "A302",
+    "title": "Orbital Calculations",
+    "course": "RS103",
+    "type": "TrueFalse",
+    "question": "Supersonic flow occurs when the flow velocity is less than the speed of sound.",
+    "answer": "False"
+  },
+  {
+    "_id": "A302",
+    "title": "Orbital Calculations",
+    "course": "RS103",
+    "type": "MultipleChoice",
+    "question": "Which of the following is not a type of jet engine?",
+    "choice1": "Turbojet",
+    "choice2": "Ramjet",
+    "choice3": "Rocket engine",
+    "choice4": "Thrust vectoring engine",
+    "answer": "Rocket engine"
+  },
+  {
+    "_id": "A302",
+    "title": "Orbital Calculations",
+    "course": "RS103",
+    "type": "MultipleChoice",
+    "question": "What is the shape of the trajectory followed by an object in free fall under the influence of gravity alone?",
+    "choice1": "Parabola",
+    "choice2": "Ellipse",
+    "choice3": "Hyperbola",
+    "choice4": "Circle",
+    "answer": "Parabola"
+  },
+  {
+    "_id": "A302",
+    "title": "Orbital Calculations",
+    "course": "RS103",
+    "type": "MultipleChoice",
+    "question": "Who is considered the father of modern aerodynamics due to his pioneering work in fluid dynamics?",
+    "choice1": "Isaac Newton",
+    "choice2": " Leonardo da Vinci",
+    "choice3": "Galileo Galilei",
+    "choice4": "Daniel Bernoulli",
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "_id": "A302",
+    "title": "Orbital Calculations",
+    "course": "RS103",
+    "type": "MultipleChoice",
+    "question": "Which type of flow occurs when the flow velocity is greater than the speed of sound?",
+    "choice1": "Transonic flow",
+    "choice2": "Hypersonic flow",
+    "choice3": "Subsonic flow",
+    "choice4": "Supersonic flow",
+    "answer": "Supersonic flow"
+  },
+  {
+    "_id": "A303",
+    "title": "Systems Engineering Exam",
+    "course": "RS103",
+    "type": "FillBlank",
+    "question": "_________ is the process of designing and developing spacecraft systems.",
+    "answer": "Spacecraft Systems Engineering"
+  },
+  {
+    "_id": "A303",
+    "title": "Systems Engineering Exam",
+    "course": "RS103",
+    "type": "FillBlank",
+    "question": "_________ involves integrating various subsystems into a functional spacecraft.",
+    "answer": "Integration"
+  },
+  {
+    "_id": "A303",
+    "title": "Systems Engineering Exam",
+    "course": "RS103",
+    "type": "FillBlank",
+    "question": "The study of aerodynamics dates back to _________ times.",
+    "answer": "Ancient"
+  },
+  {
+    "_id": "A303",
+    "title": "Systems Engineering Exam",
+    "course": "RS103",
+    "type": "FillBlank",
+    "question": "The concept of _________ was crucial in understanding flight dynamics.",
+    "answer": "Lift"
+  },
+  {
+    "_id": "A303",
+    "title": "Systems Engineering Exam",
+    "course": "RS103",
+    "type": "TrueFalse",
+    "question": "Reliability and safety are critical aspects considered in spacecraft systems engineering.",
+    "answer": "True"
+  },
+  {
+    "_id": "A303",
+    "title": "Systems Engineering Exam",
+    "course": "RS103",
+    "type": "TrueFalse",
+    "question": "Spacecraft systems engineering primarily focuses on ground-based operations. ",
+    "answer": "False"
+  },
+  {
+    "_id": "A303",
+    "title": "Systems Engineering Exam",
+    "course": "RS103",
+    "type": "MultipleChoice",
+    "question": "Which of the following is not a primary type of aerodynamic propulsion?",
+    "choice1": "Jet propulsion",
+    "choice2": "Rocket propulsion",
+    "choice3": "Turbofan propulsion",
+    "choice4": "Magnetic propulsion",
+    "answer": "Magnetic propulsion"
+  },
+  {
+    "_id": "A303",
+    "title": "Systems Engineering Exam",
+    "course": "RS103",
+    "type": "MultipleChoice",
+    "question": "Aerodynamic propulsion primarily involves:",
+    "choice1": "Thrust generation",
+    "choice2": "Lift generation",
+    "choice3": "Drag reduction",
+    "choice4": "Stability control",
+    "answer": "Thrust generation"
+  },
+  {
+    "_id": "A303",
+    "title": "Systems Engineering Exam",
+    "course": "RS103",
+    "type": "MultipleChoice",
+    "question": "Which of the following is a type of jet propulsion commonly used in aircraft?",
+    "choice1": "Turbojet",
+    "choice2": "Rocketjet",
+    "choice3": "Ionjet",
+    "choice4": "Maglevjet",
+    "answer": "Turbojet"
+  },
+  {
+    "_id": "A303",
+    "title": "Systems Engineering Exam",
+    "course": "RS103",
+    "type": "MultipleChoice",
+    "question": "In aerodynamic propulsion, which component is responsible for converting thermal energy into kinetic energy?",
+    "choice1": "Turboprop",
+    "choice2": "Combustion chamber",
+    "choice3": "Thrust reverser",
+    "choice4": "Compressor",
+    "answer": "Combustion chamber"
+  }
+]
